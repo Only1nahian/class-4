@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+* {
+    padding: 0;
+    margin: 0px;
+
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+/* top bar start */
+
+h2 {
+    font-weight: 900 !important;
+    margin-bottom: 0 !important;
+}
+
+.blue {
+    background-color: #00bcff;
+}
+
+.navy-blue {
+    background-color: #002750;
+}
+
+
+
+.btn-navyblue:hover {
+    background-color: #002750;
+
+}
+
+.btn-navyblue {
+    padding: 10px 80px;
+    background-color: #002750;
+    border-radius: 30px;
+}
+
+.banner a {
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 900s;
+}
+
+/* top bar end */
+
+
+/* second  bar start */
+
+.second_bar {
+    padding: 30px 0;
+}
+
+h1 {
+    font-weight: 900 !important;
+}
+
+h1 span {
+    color: #00bcff;
+}
+
+.banner {
+    padding: 10em 7em;
+    text-align: center;
+}
+
+.banner ul {
+    max-width: 332px;
+    margin: auto;
+    padding: 20px 0;
+}
+
+.banner ul li {
+    text-align: start;
+    display: flex;
+}
+
+.banner ul li span {
+    margin-right: 30px;
+}
+
+.banner ul li p {
+    margin-bottom: 0;
+}
+
+.banner a {
+    margin-bottom: 30px;
+}
+
+/* second bar end */
+
+
+
+/* product bar start */
+
+.product-bar h3 {
+    font-weight: 900 !important;
+    margin-top: 100px;
+}
+
+.product-bar a {
+
+    color: blue;
+    font-size: 18px;
+    margin-top: 10px;
+
+}
+
+.product-bar a p {
+    margin: 20px 0px 150px 0px !important;
+    color: black;
+
+}
+
+.product-bar row {
+    margin: auto;
+}
+
+.row h5 {
+
+    padding-top: 25px;
+    margin-bottom: 0px;
+    font-weight: 900 !important;
+    font-size: 20px;
+
+}
+
+.product-bar b {
+    color: #00bcff;
+}
+
+/* product bar end */
+
+
+/* fourth bar start */
+
+
+.fourth_bar {
+    margin-top: 80px;
+}
+
+.second_banner {
+    padding: 10em 7em;
+    text-align: center;
+    width: 90%;
+}
+
+.second_banner h1 {
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.second_banner p {
+    margin-bottom: 50px;
+}
+
+.second_banner a {
+    font-size: 25px;
+}
+
+.second_banner a p {
+    color: black;
+}
+
+.image_bar_1 img {
+    /* max-width: 100%; */
+    margin: auto;
+    display: block;
+    height: 400px;
+    width: 600px;
+}
+
+/* fourth bar end */
